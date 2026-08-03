@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>scene host</title>
+<style>
+  @font-face { font-family: "Inter"; src: url("/fonts/Inter.ttf") format("truetype");
+               font-weight: 100 900; font-display: block; }
+  @font-face { font-family: "JetBrains Mono"; src: url("/fonts/JetBrainsMono.ttf") format("truetype");
+               font-weight: 100 800; font-display: block; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { width: 1080px; height: 960px; overflow: hidden; background: #000; }
+  #stage { position: relative; width: 1080px; height: 960px; overflow: hidden;
+           font-family: var(--font), Inter, system-ui, sans-serif;
+           color: var(--fg); background: var(--bg); }
+  .layer { position: absolute; inset: 0; overflow: hidden; }
+</style>
+<script>
+  // Scene files register against this before host.js boots.
+  window.SG = {
+    scenes: {}, ready: false,
+    register(name, def) { this.scenes[name] = def; },
+  };
+</script>
+</head>
+<body>
+<div id="stage"></div>
+
+<script src="/scenes/_base.js"></script>
+<script src="/scenes/blank.js"></script>
+<script src="/scenes/title-hook.js"></script>
+<script src="/scenes/kicker.js"></script>
+<script src="/scenes/bullets.js"></script>
+<script src="/scenes/stat.js"></script>
+<script src="/scenes/code.js"></script>
+<script src="/scenes/surface3d.js"></script>
+<script src="/scenes/grid2d.js"></script>
+<script src="/scenes/clock.js"></script>
+<script src="/scenes/collide.js"></script>
+<script src="/scenes/warp.js"></script>
+<script src="/scenes/popwords.js"></script>
+<script src="/scenes/pulse.js"></script>
+<script src="/scenes/burst.js"></script>
+<script src="/scenes/flow.js"></script>
+<script src="/scenes/scatter.js"></script>
+<script src="/scenes/image.js"></script>
+<script src="/scenes/hookchip.js"></script>
+<script src="/scenes/versus.js"></script>
+<script src="/host.js"></script>
+</body>
+</html>

@@ -1,0 +1,49 @@
+{
+  "title": "ML Engineer vs AI Engineer: qual é a diferença (e qual você é)?",
+  "caption": "Saber se posicionar é a skill mais bem paga da sua carreira. 🎯\n\nML Engineer e AI Engineer NÃO são o mesmo cargo. E o mercado está pagando MUITO mais pra quem entende a diferença e se posiciona do lado certo.\n\nA real que ninguém te contou: AI Engineering é a evolução natural do desenvolvedor de software. Não precisa de PhD, não precisa de anos de álgebra linear. A base você já tem: Python, Git, SQL, APIs, Docker, cloud (olha o fim do vídeo). O que muda é a camada de cima: context engineering, RAG, agentes, evals, guardrails.\n\nE é exatamente essa camada que as vagas estão pagando caro. A demanda explodiu e a oferta de gente que domina não acompanhou. É nessa janela que quem se move primeiro sai na frente. Hoje é o caminho mais rápido pra subir de salário sendo dev.\n\nNo vídeo, a diferença em 4 rounds: skills, ferramentas, workflow e matéria-prima de cada cargo. E a base comum que prova que você está mais perto do que imagina.\n\n👉 Segue o @beerandcode e aprenda a se posicionar com Engenharia de IA de verdade.",
+  "hashtags": [
+    "ia",
+    "engenhariadeia",
+    "aiengineer",
+    "machinelearning",
+    "beerandcode"
+  ],
+  "overrides": {
+    "youtube": {
+      "title": "ML Engineer vs AI Engineer: onde estão as vagas que pagam mais",
+      "hashtags": [
+        "ia",
+        "aiengineer",
+        "machinelearning",
+        "programacao",
+        "shorts"
+      ]
+    },
+    "tiktok": {
+      "caption": "AI Engineer é a evolução natural do dev comum, e é onde as vagas estão pagando mais. A base você já tem (Python, Git, SQL, Docker). O que falta é a camada de IA: RAG, agentes, evals. Se posiciona antes da janela fechar. Segue o @beerandcode 🍺",
+      "hashtags": [
+        "ia",
+        "aiengineer",
+        "techtok",
+        "programacao",
+        "devbrasil"
+      ]
+    }
+  },
+  "results": {
+    "youtube": {
+      "platform": "youtube",
+      "id": "gDjnJgsN4G0",
+      "url": "https://youtube.com/shorts/gDjnJgsN4G0",
+      "at": "2026-08-03T02:11:55+00:00"
+    },
+    "tiktok": {
+      "platform": "tiktok",
+      "id": "v_inbox_file~v2.7669621444435052560",
+      "url": "",
+      "note": "rascunho enviado — abra o app do TikTok, o vídeo está na sua inbox pra finalizar a postagem",
+      "at": "2026-08-03T02:12:27+00:00"
+    }
+  },
+  "scheduled": null
+}

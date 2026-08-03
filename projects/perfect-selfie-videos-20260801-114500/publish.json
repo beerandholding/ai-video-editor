@@ -1,0 +1,61 @@
+{
+  "title": "A IA derrubou uma conjectura matemática de 87 anos — em uma manhã",
+  "caption": "\"IA não funciona no meu projeto.\" Será? ⚽🧠\n\nEnquanto o mundo via a final da Copa, um pesquisador passou uma manhã conversando com o Fable 5 e derrubou uma conjectura matemática aberta desde 1939. 87 anos. Resolvida numa conversa.\n\nAí você olha pro seu dia a dia e a história é outra:\n\n🔥 A IA queima tokens como se fosse de graça — e a fatura chega\n🤡 Gera código que compila mas não faz sentido nenhum no seu contexto\n🌀 Se perde no seu projeto: inventa arquivo, ignora padrão, refatora o que ninguém pediu\n\nE a conclusão fácil é \"IA não serve pra projeto de verdade\".\n\nSó que a mesma ferramenta que \"não dá conta\" do seu CRUD acabou de resolver o que gerações de matemáticos não resolveram. A diferença não está no modelo. Está em quem opera: contexto certo, padrão definido, escopo fechado, orquestração.\n\nIA sem engenharia é estagiário com amnésia. IA com engenharia derruba problema de 87 anos.\n\nA ferramenta já está pronta. O que falta é você aprender a orquestrar.\n\n👉 Segue o @beerandcode e aprenda Engenharia de IA de verdade.",
+  "hashtags": [
+    "inteligenciaartificial",
+    "ia",
+    "engenhariadeia",
+    "claudeai",
+    "llm",
+    "programacao",
+    "desenvolvedor",
+    "devbrasil",
+    "codigolimpo",
+    "produtividadedev",
+    "carreiraemti",
+    "beerandcode"
+  ],
+  "overrides": {
+    "youtube": {
+      "title": "IA resolveu em 1 manhã o que matemáticos não resolveram em 87 anos",
+      "hashtags": [
+        "inteligenciaartificial",
+        "ia",
+        "programacao",
+        "dev",
+        "shorts"
+      ]
+    },
+    "tiktok": {
+      "caption": "Sua IA queima tokens, gera código sem sentido e se perde no seu projeto. A mesma IA resolveu em uma manhã um problema aberto desde 1939. O problema não é o modelo — é a falta de orquestração. Segue o @beerandcode 🍺",
+      "hashtags": [
+        "ia",
+        "inteligenciaartificial",
+        "techtok",
+        "programacao",
+        "dev",
+        "devbrasil",
+        "vidadeprogramador",
+        "aprendanotiktok",
+        "ia2026",
+        "foryou"
+      ]
+    }
+  },
+  "results": {
+    "youtube": {
+      "platform": "youtube",
+      "id": "X-RBa6HT92o",
+      "url": "https://youtube.com/shorts/X-RBa6HT92o",
+      "at": "2026-08-01T17:36:15+00:00"
+    },
+    "tiktok": {
+      "platform": "tiktok",
+      "id": "v_inbox_file~v2.7669118737508747265",
+      "url": "",
+      "note": "rascunho enviado — abra o app do TikTok, o vídeo está na sua inbox pra finalizar a postagem",
+      "at": "2026-08-01T17:39:39+00:00"
+    }
+  },
+  "scheduled": null
+}

@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>social-generator — preview</title>
+<link rel="stylesheet" href="/player.css">
+</head>
+<body>
+
+<div id="top">
+  <div class="brand">social<span>·</span>generator</div>
+  <select id="proj" title="projeto"></select>
+  <button id="upload-btn" title="enviar um vídeo novo">+ vídeo</button>
+  <input id="file" type="file" accept="video/*" hidden>
+  <span class="sp"></span>
+  <button id="mode" title="1 = ambos · 2 = só topo · 3 = só vídeo">ambos</button>
+  <button id="guides-btn" title="G — guias de corte e safe area">guias</button>
+  <button id="loop" title="L — repetir o segmento atual">loop seg</button>
+  <button id="render" class="primary">renderizar</button>
+  <button id="publish-btn" class="primary" disabled title="renderize antes">publicar</button>
+  <span id="status">—</span>
+</div>
+
+<div id="pubmodal" hidden>
+  <div id="pubcard">
+    <div id="pubhead">
+      <b>publicar</b> <span id="pubvideo"></span>
+      <button id="pubclose">✕</button>
+    </div>
+    <div id="pubplats"></div>
+    <div id="pubsched">
+      <label><input type="radio" name="when" value="now" checked> publicar agora</label>
+      <label><input type="radio" name="when" value="later"> agendar</label>
+      <input type="datetime-local" id="pubwhen" disabled>
+    </div>
+    <div id="pubactions">
+      <span id="pubmsg"></span>
+      <button id="pubgo" class="primary">publicar</button>
+    </div>
+  </div>
+</div>
+
+<div id="main">
+  <div id="stagewrap">
+    <div id="stage">
+      <div id="top-half"><iframe id="host" src="about:blank" scrolling="no"></iframe></div>
+      <div id="bottom"><video id="vid" playsinline preload="auto"></video></div>
+      <div id="guides">
+        <div class="gline" style="top:958px"></div>
+        <div class="gsafe" style="left:40px; right:40px; top:40px; bottom:340px"></div>
+        <div class="glabel" style="left:52px; top:52px">safe area</div>
+        <div class="glabel" style="left:52px; bottom:290px">UI do Reels ↓</div>
+      </div>
+    </div>
+  </div>
+
+  <div id="side">
+    <div id="tabs">
+      <button data-p="segs" class="on">segmentos</button>
+      <button data-p="tr">transcrição</button>
+      <button data-p="info">info</button>
+    </div>
+    <div class="pane on" id="pane-segs"></div>
+    <div class="pane" id="pane-tr"><div id="tr"></div></div>
+    <div class="pane" id="pane-info"><div id="meta"></div></div>
+  </div>
+</div>
+
+<div id="transport">
+  <div id="track">
+    <div id="segbar"></div>
+    <div id="cuts"></div>
+    <div id="played"></div>
+    <div id="head"></div>
+    <div id="bar"></div>
+  </div>
+  <div id="ctrls">
+    <button id="play">▶</button>
+    <button id="pf" title="←">◀ 1f</button>
+    <button id="nf" title="→">1f ▶</button>
+    <button id="ps" title="[">◀ seg</button>
+    <button id="ns" title="]">seg ▶</button>
+    <div id="tc">00:00.00 · f0000/0000</div>
+    <span class="hint">espaço · ←/→ frame · shift+←/→ 10f · [ ] segmento · L loop · G guias · 1/2/3 vista</span>
+  </div>
+</div>
+
+<svg id="gradefx" width="0" height="0" aria-hidden="true"
+     style="position:absolute"></svg>
+
+<div id="drop">solta o vídeo aqui</div>
+
+<script src="/player.js"></script>
+</body>
+</html>

@@ -1,0 +1,159 @@
+================================================================
+ROTEIRO — CONJECTURA JACOBIANA x FABLE 5
+~90s · reel vertical · split 50/50
+================================================================
+
+CHECAGEM DE FATOS (nao falar, so conferir)
+----------------------------------------------------------------
+- 87 anos, NAO 90. Keller propos em 1939, contraexemplo em julho/2026.
+- REFUTOU, nao resolveu. E so para n >= 3. Em 2 dimensoes continua aberto.
+- Quem achou: Levent Alpoge (Harvard), com o Fable 5 assistindo.
+  Akhil Mathew fez a pergunta.
+- "Durante a final da Copa" esta correto. Alpoge creditou o trabalho
+  do Fable durante a final.
+- Ainda sem revisao por pares formal.
+
+
+================================================================
+1 - GANCHO                                          0-8s
+================================================================
+TOPO: surface3d girando + titulo
+      DERRUBARAM / 87 ANOS / DE MATEMATICA
+
+FALA:
+
+No domingo da final da Copa,
+enquanto o mundo assistia ao jogo,
+um matematico de Harvard e o Fable 5
+derrubaram um problema que resistia desde 1939.
+
+
+================================================================
+2 - O QUE E                                         8-42s
+================================================================
+TOPO: relogio com ponteiro no 3, rotulos "3h?" "15h?" piscando
+      depois: o teste dando -2 fixo enquanto a lupa passeia
+
+FALA:
+
+Toda conta tem uma pergunta escondida:
+da pra voltar atras?
+
+[pausa]
+
+As vezes nao da.
+Olha o relogio.
+O ponteiro ta no tres.
+Que horas sao? Tres da tarde? Tres da manha?
+Nao da pra saber.
+O relogio da volta e repete.
+
+[pausa]
+
+So que polinomio nao da volta.
+Polinomio e soma, multiplicacao e potencia.
+Ele so cresce. Nunca repete.
+
+[pausa]
+
+E existe um teste que detecta
+se a conta amassou o espaco em algum ponto.
+Se o teste nunca acusa nada,
+a conta nunca amassou nada em lugar nenhum.
+
+[pausa]
+
+A aposta de 87 anos era essa:
+polinomio que passa no teste, sempre da pra voltar atras.
+Dois pontos diferentes nunca caem no mesmo lugar.
+
+
+================================================================
+3 - O QUE CAIU                                      42-62s
+================================================================
+TOPO: tres pontos por trajetorias separadas convergindo num so
+
+FALA:
+
+Alpoge, com o Fable, achou o polinomio que quebra a aposta.
+Grau 7, em tres dimensoes.
+O teste da menos dois em todo lugar.
+Nunca amassa nada.
+
+[pausa]
+
+E mesmo assim:
+tres pontos completamente diferentes
+caem exatamente no mesmo lugar.
+
+[pausa]
+
+E o relogio dando volta.
+So que dentro de um polinomio,
+onde ninguem achava que dava.
+
+
+================================================================
+4 - COMPROVACAO                                     62-76s
+================================================================
+TOPO: code substituindo os 3 pontos, mesma saida 3x
+
+FALA:
+
+E nao precisa acreditar em mim nem no Fable.
+Pega os tres pontos, joga na conta, faz na mao.
+Da o mesmo resultado nos tres.
+Terence Tao ja publicou uma analise reconstruindo tudo.
+
+[pausa]
+
+Falta revisao por pares formal.
+E em duas dimensoes continua aberto.
+
+
+================================================================
+5 - GANCHO FINAL                                    76-90s
+================================================================
+TOPO: stat 87 -> titulo com o CTA
+
+FALA:
+
+E antes que alguem comente:
+o Fable nao resolveu sozinho.
+Teve um pesquisador guiando, sabendo o que perguntar.
+
+[pausa]
+
+E esse e exatamente o ponto.
+Se essa dupla derruba um problema de 87 anos
+num domingo de Copa,
+o teu sistema legado nao e o problema.
+O problema e que voce ainda nao aprendeu a usar a ferramenta.
+
+[pausa]
+
+Segue a gente pra aprender engenharia de IA de verdade.
+
+
+================================================================
+NOTAS
+================================================================
+- ~275 palavras. Ritmo de reel (~180 ppm) da ~92s.
+- Se precisar cortar: primeiro paragrafo do segmento 4.
+- A mencao ao n=2 aberto custa 4s e blinda do comentarista chato.
+  Recomendo manter.
+- O relogio abre no segmento 2 e FECHA no segmento 3.
+  E a mesma imagem carregando o video inteiro. Nao troque.
+- A palavra "jacobiano" nao aparece na fala em nenhum momento.
+  So no titulo da tela.
+
+FONTES
+- terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/
+- sbseminar.wordpress.com/2026/07/20/the-new-counterexample-to-the-jacobian-conjecture/
+- johndcook.com/blog/2026/07/21/jacobian-conjecture/
+- mathworld.wolfram.com/JacobianConjecture.html
+
+DEPOIS DE GRAVAR
+- arrasta o video em http://127.0.0.1:8420/player.html
+- ./sg.sh transcribe <slug> --lang pt
+- me avisa que eu encaixo os tempos nas suas pausas reais

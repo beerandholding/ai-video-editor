@@ -1,0 +1,1453 @@
+{
+  "language": "pt",
+  "language_prob": 1.0,
+  "duration": 82.836,
+  "text": "enquanto o mundo inteiro assistia a final da copa do mundo o matemático usando o fable 5 derrubou uma conjectura matemática que resistia desde 1939 imagina que uma equação pega o espaço inteiro amassa ele tipo massa de pão estica, torce, alonga aí você pega um microscópio e olha ponto por ponto em todo lugar que você olha a massa só esticou não dobrou, nada foi esmagado, nada colou isso localmente é sempre reversível a pergunta de 1939 é se nada dobrou em ponto nenhum dá sempre pra desfazer e voltar ao estado original? todo mundo apostava que sim, por 87 anos ninguém provou, ninguém achou um caso onde não dava o fable 5 achou e não foi pensando como um matemático o pesquisador passou uma manhã conversando com o modelo e saiu da conversa com 3 polinômios que 87 anos de mentes brilhantes não acharam tão curto que cabe num tweet e a comunidade vermelha não achou verificou em questão de horas agora me diz se uma IA achou em uma partida de futebol o que ninguém achou em 87 anos você acha mesmo que ele não dá conta do seu sistema legado? a ferramenta já tá pronta o que falta é você aprender a orquestrar siga o brain code e aprenda engenharia de IA de verdade",
+  "segments": [
+    {
+      "start": 0.34,
+      "end": 3.4,
+      "text": "enquanto o mundo inteiro assistia a final da copa do mundo"
+    },
+    {
+      "start": 3.4,
+      "end": 9.22,
+      "text": "o matemático usando o fable 5 derrubou uma conjectura matemática que resistia desde 1939"
+    },
+    {
+      "start": 10.66,
+      "end": 12.94,
+      "text": "imagina que uma equação pega o espaço inteiro"
+    },
+    {
+      "start": 12.94,
+      "end": 14.94,
+      "text": "amassa ele tipo massa de pão"
+    },
+    {
+      "start": 14.94,
+      "end": 16.5,
+      "text": "estica, torce, alonga"
+    },
+    {
+      "start": 16.5,
+      "end": 20.02,
+      "text": "aí você pega um microscópio e olha ponto por ponto"
+    },
+    {
+      "start": 20.02,
+      "end": 22.96,
+      "text": "em todo lugar que você olha a massa só esticou"
+    },
+    {
+      "start": 22.96,
+      "end": 25.64,
+      "text": "não dobrou, nada foi esmagado, nada colou"
+    },
+    {
+      "start": 25.64,
+      "end": 28.24,
+      "text": "isso localmente é sempre reversível"
+    },
+    {
+      "start": 28.24,
+      "end": 31.0,
+      "text": "a pergunta de 1939 é"
+    },
+    {
+      "start": 31.0,
+      "end": 35.6,
+      "text": "se nada dobrou em ponto nenhum dá sempre pra desfazer e voltar ao estado original?"
+    },
+    {
+      "start": 35.88,
+      "end": 39.28,
+      "text": "todo mundo apostava que sim, por 87 anos"
+    },
+    {
+      "start": 39.28,
+      "end": 42.14,
+      "text": "ninguém provou, ninguém achou um caso onde não dava"
+    },
+    {
+      "start": 42.14,
+      "end": 43.66,
+      "text": "o fable 5 achou"
+    },
+    {
+      "start": 43.66,
+      "end": 46.4,
+      "text": "e não foi pensando como um matemático"
+    },
+    {
+      "start": 46.4,
+      "end": 49.62,
+      "text": "o pesquisador passou uma manhã conversando com o modelo"
+    },
+    {
+      "start": 49.62,
+      "end": 55.48,
+      "text": "e saiu da conversa com 3 polinômios que 87 anos de mentes brilhantes não acharam"
+    },
+    {
+      "start": 55.48,
+      "end": 57.2,
+      "text": "tão curto que cabe num tweet"
+    },
+    {
+      "start": 57.2,
+      "end": 58.22,
+      "text": "e a comunidade vermelha não achou"
+    },
+    {
+      "start": 58.22,
+      "end": 59.54,
+      "text": "verificou em questão de horas"
+    },
+    {
+      "start": 60.2,
+      "end": 60.92,
+      "text": "agora me diz"
+    },
+    {
+      "start": 60.92,
+      "end": 63.72,
+      "text": "se uma IA achou em uma partida de futebol"
+    },
+    {
+      "start": 67.48,
+      "end": 70.1,
+      "text": "o que ninguém achou em 87 anos"
+    },
+    {
+      "start": 70.44,
+      "end": 73.4,
+      "text": "você acha mesmo que ele não dá conta do seu sistema legado?"
+    },
+    {
+      "start": 73.52,
+      "end": 75.48,
+      "text": "a ferramenta já tá pronta"
+    },
+    {
+      "start": 75.48,
+      "end": 77.7,
+      "text": "o que falta é você aprender a orquestrar"
+    },
+    {
+      "start": 78.22,
+      "end": 81.56,
+      "text": "siga o brain code e aprenda engenharia de IA de verdade"
+    }
+  ],
+  "words": [
+    {
+      "start": 0.34,
+      "end": 0.84,
+      "word": "enquanto",
+      "prob": 0.183
+    },
+    {
+      "start": 0.84,
+      "end": 1.06,
+      "word": "o",
+      "prob": 0.991
+    },
+    {
+      "start": 1.06,
+      "end": 1.24,
+      "word": "mundo",
+      "prob": 0.999
+    },
+    {
+      "start": 1.24,
+      "end": 1.52,
+      "word": "inteiro",
+      "prob": 0.998
+    },
+    {
+      "start": 1.52,
+      "end": 2.08,
+      "word": "assistia",
+      "prob": 0.983
+    },
+    {
+      "start": 2.08,
+      "end": 2.18,
+      "word": "a",
+      "prob": 0.878
+    },
+    {
+      "start": 2.18,
+      "end": 2.5,
+      "word": "final",
+      "prob": 0.999
+    },
+    {
+      "start": 2.5,
+      "end": 2.74,
+      "word": "da",
+      "prob": 0.999
+    },
+    {
+      "start": 2.74,
+      "end": 3.08,
+      "word": "copa",
+      "prob": 0.74
+    },
+    {
+      "start": 3.08,
+      "end": 3.12,
+      "word": "do",
+      "prob": 0.986
+    },
+    {
+      "start": 3.12,
+      "end": 3.4,
+      "word": "mundo",
+      "prob": 0.997
+    },
+    {
+      "start": 3.4,
+      "end": 4.06,
+      "word": "o",
+      "prob": 0.433
+    },
+    {
+      "start": 4.06,
+      "end": 4.58,
+      "word": "matemático",
+      "prob": 0.994
+    },
+    {
+      "start": 4.58,
+      "end": 4.84,
+      "word": "usando",
+      "prob": 0.969
+    },
+    {
+      "start": 4.84,
+      "end": 5.0,
+      "word": "o",
+      "prob": 0.869
+    },
+    {
+      "start": 5.0,
+      "end": 5.18,
+      "word": "fable",
+      "prob": 0.75
+    },
+    {
+      "start": 5.18,
+      "end": 5.44,
+      "word": "5",
+      "prob": 0.943
+    },
+    {
+      "start": 5.44,
+      "end": 6.02,
+      "word": "derrubou",
+      "prob": 0.996
+    },
+    {
+      "start": 6.02,
+      "end": 6.14,
+      "word": "uma",
+      "prob": 0.997
+    },
+    {
+      "start": 6.14,
+      "end": 6.94,
+      "word": "conjectura",
+      "prob": 0.931
+    },
+    {
+      "start": 6.94,
+      "end": 7.58,
+      "word": "matemática",
+      "prob": 0.999
+    },
+    {
+      "start": 7.58,
+      "end": 7.76,
+      "word": "que",
+      "prob": 0.948
+    },
+    {
+      "start": 7.76,
+      "end": 8.3,
+      "word": "resistia",
+      "prob": 0.993
+    },
+    {
+      "start": 8.3,
+      "end": 8.54,
+      "word": "desde",
+      "prob": 0.998
+    },
+    {
+      "start": 8.54,
+      "end": 9.22,
+      "word": "1939",
+      "prob": 0.994
+    },
+    {
+      "start": 10.66,
+      "end": 11.22,
+      "word": "imagina",
+      "prob": 0.952
+    },
+    {
+      "start": 11.22,
+      "end": 11.36,
+      "word": "que",
+      "prob": 0.999
+    },
+    {
+      "start": 11.36,
+      "end": 11.46,
+      "word": "uma",
+      "prob": 0.999
+    },
+    {
+      "start": 11.46,
+      "end": 11.86,
+      "word": "equação",
+      "prob": 1.0
+    },
+    {
+      "start": 11.86,
+      "end": 12.18,
+      "word": "pega",
+      "prob": 0.993
+    },
+    {
+      "start": 12.18,
+      "end": 12.3,
+      "word": "o",
+      "prob": 0.997
+    },
+    {
+      "start": 12.3,
+      "end": 12.5,
+      "word": "espaço",
+      "prob": 1.0
+    },
+    {
+      "start": 12.5,
+      "end": 12.94,
+      "word": "inteiro",
+      "prob": 0.999
+    },
+    {
+      "start": 12.94,
+      "end": 13.92,
+      "word": "amassa",
+      "prob": 0.872
+    },
+    {
+      "start": 13.92,
+      "end": 14.06,
+      "word": "ele",
+      "prob": 0.996
+    },
+    {
+      "start": 14.06,
+      "end": 14.26,
+      "word": "tipo",
+      "prob": 0.98
+    },
+    {
+      "start": 14.26,
+      "end": 14.46,
+      "word": "massa",
+      "prob": 0.994
+    },
+    {
+      "start": 14.46,
+      "end": 14.64,
+      "word": "de",
+      "prob": 1.0
+    },
+    {
+      "start": 14.64,
+      "end": 14.94,
+      "word": "pão",
+      "prob": 1.0
+    },
+    {
+      "start": 14.94,
+      "end": 15.6,
+      "word": "estica,",
+      "prob": 0.846
+    },
+    {
+      "start": 15.62,
+      "end": 16.02,
+      "word": "torce,",
+      "prob": 0.999
+    },
+    {
+      "start": 16.02,
+      "end": 16.5,
+      "word": "alonga",
+      "prob": 0.999
+    },
+    {
+      "start": 16.5,
+      "end": 17.16,
+      "word": "aí",
+      "prob": 0.845
+    },
+    {
+      "start": 17.16,
+      "end": 17.32,
+      "word": "você",
+      "prob": 1.0
+    },
+    {
+      "start": 17.32,
+      "end": 17.54,
+      "word": "pega",
+      "prob": 1.0
+    },
+    {
+      "start": 17.54,
+      "end": 17.66,
+      "word": "um",
+      "prob": 0.999
+    },
+    {
+      "start": 17.66,
+      "end": 18.4,
+      "word": "microscópio",
+      "prob": 0.998
+    },
+    {
+      "start": 18.4,
+      "end": 18.64,
+      "word": "e",
+      "prob": 1.0
+    },
+    {
+      "start": 18.64,
+      "end": 18.96,
+      "word": "olha",
+      "prob": 1.0
+    },
+    {
+      "start": 18.96,
+      "end": 19.4,
+      "word": "ponto",
+      "prob": 0.999
+    },
+    {
+      "start": 19.4,
+      "end": 19.74,
+      "word": "por",
+      "prob": 1.0
+    },
+    {
+      "start": 19.74,
+      "end": 20.02,
+      "word": "ponto",
+      "prob": 1.0
+    },
+    {
+      "start": 20.02,
+      "end": 20.38,
+      "word": "em",
+      "prob": 0.983
+    },
+    {
+      "start": 20.38,
+      "end": 20.54,
+      "word": "todo",
+      "prob": 1.0
+    },
+    {
+      "start": 20.54,
+      "end": 20.82,
+      "word": "lugar",
+      "prob": 1.0
+    },
+    {
+      "start": 20.82,
+      "end": 21.0,
+      "word": "que",
+      "prob": 1.0
+    },
+    {
+      "start": 21.0,
+      "end": 21.18,
+      "word": "você",
+      "prob": 1.0
+    },
+    {
+      "start": 21.18,
+      "end": 21.46,
+      "word": "olha",
+      "prob": 1.0
+    },
+    {
+      "start": 21.46,
+      "end": 21.74,
+      "word": "a",
+      "prob": 0.868
+    },
+    {
+      "start": 21.74,
+      "end": 22.06,
+      "word": "massa",
+      "prob": 1.0
+    },
+    {
+      "start": 22.06,
+      "end": 22.5,
+      "word": "só",
+      "prob": 1.0
+    },
+    {
+      "start": 22.5,
+      "end": 22.96,
+      "word": "esticou",
+      "prob": 1.0
+    },
+    {
+      "start": 22.96,
+      "end": 23.26,
+      "word": "não",
+      "prob": 0.463
+    },
+    {
+      "start": 23.26,
+      "end": 23.7,
+      "word": "dobrou,",
+      "prob": 1.0
+    },
+    {
+      "start": 23.72,
+      "end": 24.0,
+      "word": "nada",
+      "prob": 1.0
+    },
+    {
+      "start": 24.0,
+      "end": 24.28,
+      "word": "foi",
+      "prob": 1.0
+    },
+    {
+      "start": 24.28,
+      "end": 24.88,
+      "word": "esmagado,",
+      "prob": 1.0
+    },
+    {
+      "start": 24.9,
+      "end": 25.18,
+      "word": "nada",
+      "prob": 1.0
+    },
+    {
+      "start": 25.18,
+      "end": 25.64,
+      "word": "colou",
+      "prob": 1.0
+    },
+    {
+      "start": 25.64,
+      "end": 26.34,
+      "word": "isso",
+      "prob": 0.955
+    },
+    {
+      "start": 26.34,
+      "end": 27.02,
+      "word": "localmente",
+      "prob": 0.996
+    },
+    {
+      "start": 27.02,
+      "end": 27.28,
+      "word": "é",
+      "prob": 1.0
+    },
+    {
+      "start": 27.28,
+      "end": 27.58,
+      "word": "sempre",
+      "prob": 1.0
+    },
+    {
+      "start": 27.58,
+      "end": 28.24,
+      "word": "reversível",
+      "prob": 0.851
+    },
+    {
+      "start": 28.24,
+      "end": 28.74,
+      "word": "a",
+      "prob": 0.011
+    },
+    {
+      "start": 28.74,
+      "end": 29.2,
+      "word": "pergunta",
+      "prob": 0.997
+    },
+    {
+      "start": 29.2,
+      "end": 29.5,
+      "word": "de",
+      "prob": 0.995
+    },
+    {
+      "start": 29.5,
+      "end": 30.22,
+      "word": "1939",
+      "prob": 0.939
+    },
+    {
+      "start": 30.22,
+      "end": 31.0,
+      "word": "é",
+      "prob": 0.97
+    },
+    {
+      "start": 31.0,
+      "end": 31.86,
+      "word": "se",
+      "prob": 0.626
+    },
+    {
+      "start": 31.86,
+      "end": 32.1,
+      "word": "nada",
+      "prob": 0.994
+    },
+    {
+      "start": 32.1,
+      "end": 32.56,
+      "word": "dobrou",
+      "prob": 0.999
+    },
+    {
+      "start": 32.56,
+      "end": 32.68,
+      "word": "em",
+      "prob": 0.939
+    },
+    {
+      "start": 32.68,
+      "end": 32.86,
+      "word": "ponto",
+      "prob": 0.995
+    },
+    {
+      "start": 32.86,
+      "end": 33.16,
+      "word": "nenhum",
+      "prob": 1.0
+    },
+    {
+      "start": 33.16,
+      "end": 33.46,
+      "word": "dá",
+      "prob": 0.569
+    },
+    {
+      "start": 33.46,
+      "end": 33.74,
+      "word": "sempre",
+      "prob": 0.997
+    },
+    {
+      "start": 33.74,
+      "end": 33.94,
+      "word": "pra",
+      "prob": 0.449
+    },
+    {
+      "start": 33.94,
+      "end": 34.58,
+      "word": "desfazer",
+      "prob": 0.999
+    },
+    {
+      "start": 34.58,
+      "end": 34.68,
+      "word": "e",
+      "prob": 0.998
+    },
+    {
+      "start": 34.68,
+      "end": 34.94,
+      "word": "voltar",
+      "prob": 1.0
+    },
+    {
+      "start": 34.94,
+      "end": 35.12,
+      "word": "ao",
+      "prob": 0.999
+    },
+    {
+      "start": 35.12,
+      "end": 35.32,
+      "word": "estado",
+      "prob": 0.996
+    },
+    {
+      "start": 35.32,
+      "end": 35.6,
+      "word": "original?",
+      "prob": 0.999
+    },
+    {
+      "start": 35.88,
+      "end": 36.48,
+      "word": "todo",
+      "prob": 0.923
+    },
+    {
+      "start": 36.48,
+      "end": 36.7,
+      "word": "mundo",
+      "prob": 1.0
+    },
+    {
+      "start": 36.7,
+      "end": 37.26,
+      "word": "apostava",
+      "prob": 1.0
+    },
+    {
+      "start": 37.26,
+      "end": 37.46,
+      "word": "que",
+      "prob": 0.999
+    },
+    {
+      "start": 37.46,
+      "end": 37.74,
+      "word": "sim,",
+      "prob": 1.0
+    },
+    {
+      "start": 37.84,
+      "end": 38.12,
+      "word": "por",
+      "prob": 1.0
+    },
+    {
+      "start": 38.12,
+      "end": 38.66,
+      "word": "87",
+      "prob": 0.998
+    },
+    {
+      "start": 38.66,
+      "end": 39.28,
+      "word": "anos",
+      "prob": 1.0
+    },
+    {
+      "start": 39.28,
+      "end": 39.64,
+      "word": "ninguém",
+      "prob": 0.908
+    },
+    {
+      "start": 39.64,
+      "end": 40.22,
+      "word": "provou,",
+      "prob": 0.999
+    },
+    {
+      "start": 40.24,
+      "end": 40.4,
+      "word": "ninguém",
+      "prob": 1.0
+    },
+    {
+      "start": 40.4,
+      "end": 40.86,
+      "word": "achou",
+      "prob": 1.0
+    },
+    {
+      "start": 40.86,
+      "end": 41.0,
+      "word": "um",
+      "prob": 0.998
+    },
+    {
+      "start": 41.0,
+      "end": 41.28,
+      "word": "caso",
+      "prob": 1.0
+    },
+    {
+      "start": 41.28,
+      "end": 41.66,
+      "word": "onde",
+      "prob": 0.998
+    },
+    {
+      "start": 41.66,
+      "end": 41.84,
+      "word": "não",
+      "prob": 1.0
+    },
+    {
+      "start": 41.84,
+      "end": 42.14,
+      "word": "dava",
+      "prob": 1.0
+    },
+    {
+      "start": 42.14,
+      "end": 42.74,
+      "word": "o",
+      "prob": 0.875
+    },
+    {
+      "start": 42.74,
+      "end": 42.96,
+      "word": "fable",
+      "prob": 0.555
+    },
+    {
+      "start": 42.96,
+      "end": 43.2,
+      "word": "5",
+      "prob": 0.968
+    },
+    {
+      "start": 43.2,
+      "end": 43.66,
+      "word": "achou",
+      "prob": 1.0
+    },
+    {
+      "start": 43.66,
+      "end": 44.42,
+      "word": "e",
+      "prob": 0.945
+    },
+    {
+      "start": 44.42,
+      "end": 44.54,
+      "word": "não",
+      "prob": 1.0
+    },
+    {
+      "start": 44.54,
+      "end": 44.7,
+      "word": "foi",
+      "prob": 1.0
+    },
+    {
+      "start": 44.7,
+      "end": 45.26,
+      "word": "pensando",
+      "prob": 1.0
+    },
+    {
+      "start": 45.26,
+      "end": 45.68,
+      "word": "como",
+      "prob": 0.999
+    },
+    {
+      "start": 45.68,
+      "end": 45.82,
+      "word": "um",
+      "prob": 0.995
+    },
+    {
+      "start": 45.82,
+      "end": 46.4,
+      "word": "matemático",
+      "prob": 1.0
+    },
+    {
+      "start": 46.4,
+      "end": 46.64,
+      "word": "o",
+      "prob": 0.982
+    },
+    {
+      "start": 46.64,
+      "end": 47.1,
+      "word": "pesquisador",
+      "prob": 1.0
+    },
+    {
+      "start": 47.1,
+      "end": 47.46,
+      "word": "passou",
+      "prob": 1.0
+    },
+    {
+      "start": 47.46,
+      "end": 47.7,
+      "word": "uma",
+      "prob": 1.0
+    },
+    {
+      "start": 47.7,
+      "end": 48.06,
+      "word": "manhã",
+      "prob": 1.0
+    },
+    {
+      "start": 48.06,
+      "end": 48.98,
+      "word": "conversando",
+      "prob": 0.997
+    },
+    {
+      "start": 48.98,
+      "end": 49.22,
+      "word": "com",
+      "prob": 0.998
+    },
+    {
+      "start": 49.22,
+      "end": 49.36,
+      "word": "o",
+      "prob": 1.0
+    },
+    {
+      "start": 49.36,
+      "end": 49.62,
+      "word": "modelo",
+      "prob": 1.0
+    },
+    {
+      "start": 49.62,
+      "end": 50.06,
+      "word": "e",
+      "prob": 0.994
+    },
+    {
+      "start": 50.06,
+      "end": 50.32,
+      "word": "saiu",
+      "prob": 1.0
+    },
+    {
+      "start": 50.32,
+      "end": 50.42,
+      "word": "da",
+      "prob": 1.0
+    },
+    {
+      "start": 50.42,
+      "end": 50.9,
+      "word": "conversa",
+      "prob": 1.0
+    },
+    {
+      "start": 50.9,
+      "end": 51.06,
+      "word": "com",
+      "prob": 1.0
+    },
+    {
+      "start": 51.06,
+      "end": 51.48,
+      "word": "3",
+      "prob": 0.921
+    },
+    {
+      "start": 51.48,
+      "end": 52.16,
+      "word": "polinômios",
+      "prob": 0.998
+    },
+    {
+      "start": 52.16,
+      "end": 52.34,
+      "word": "que",
+      "prob": 0.999
+    },
+    {
+      "start": 52.34,
+      "end": 52.98,
+      "word": "87",
+      "prob": 0.999
+    },
+    {
+      "start": 52.98,
+      "end": 53.64,
+      "word": "anos",
+      "prob": 1.0
+    },
+    {
+      "start": 53.64,
+      "end": 53.82,
+      "word": "de",
+      "prob": 1.0
+    },
+    {
+      "start": 53.82,
+      "end": 54.12,
+      "word": "mentes",
+      "prob": 0.999
+    },
+    {
+      "start": 54.12,
+      "end": 54.68,
+      "word": "brilhantes",
+      "prob": 1.0
+    },
+    {
+      "start": 54.68,
+      "end": 54.98,
+      "word": "não",
+      "prob": 0.999
+    },
+    {
+      "start": 54.98,
+      "end": 55.48,
+      "word": "acharam",
+      "prob": 1.0
+    },
+    {
+      "start": 55.48,
+      "end": 56.16,
+      "word": "tão",
+      "prob": 0.898
+    },
+    {
+      "start": 56.16,
+      "end": 56.48,
+      "word": "curto",
+      "prob": 1.0
+    },
+    {
+      "start": 56.48,
+      "end": 56.6,
+      "word": "que",
+      "prob": 1.0
+    },
+    {
+      "start": 56.6,
+      "end": 56.8,
+      "word": "cabe",
+      "prob": 0.999
+    },
+    {
+      "start": 56.8,
+      "end": 56.98,
+      "word": "num",
+      "prob": 0.925
+    },
+    {
+      "start": 56.98,
+      "end": 57.2,
+      "word": "tweet",
+      "prob": 0.969
+    },
+    {
+      "start": 57.2,
+      "end": 57.52,
+      "word": "e",
+      "prob": 0.923
+    },
+    {
+      "start": 57.52,
+      "end": 57.7,
+      "word": "a",
+      "prob": 1.0
+    },
+    {
+      "start": 57.7,
+      "end": 58.02,
+      "word": "comunidade",
+      "prob": 1.0
+    },
+    {
+      "start": 58.02,
+      "end": 58.22,
+      "word": "vermelha",
+      "prob": 0.674
+    },
+    {
+      "start": 58.22,
+      "end": 58.22,
+      "word": "não",
+      "prob": 0.009
+    },
+    {
+      "start": 58.22,
+      "end": 58.22,
+      "word": "achou",
+      "prob": 0.706
+    },
+    {
+      "start": 58.22,
+      "end": 58.54,
+      "word": "verificou",
+      "prob": 0.784
+    },
+    {
+      "start": 58.54,
+      "end": 58.68,
+      "word": "em",
+      "prob": 0.996
+    },
+    {
+      "start": 58.68,
+      "end": 58.94,
+      "word": "questão",
+      "prob": 0.987
+    },
+    {
+      "start": 58.94,
+      "end": 59.26,
+      "word": "de",
+      "prob": 0.997
+    },
+    {
+      "start": 59.26,
+      "end": 59.54,
+      "word": "horas",
+      "prob": 0.999
+    },
+    {
+      "start": 60.2,
+      "end": 60.46,
+      "word": "agora",
+      "prob": 0.056
+    },
+    {
+      "start": 60.46,
+      "end": 60.72,
+      "word": "me",
+      "prob": 0.979
+    },
+    {
+      "start": 60.72,
+      "end": 60.92,
+      "word": "diz",
+      "prob": 0.959
+    },
+    {
+      "start": 60.92,
+      "end": 61.42,
+      "word": "se",
+      "prob": 0.408
+    },
+    {
+      "start": 61.42,
+      "end": 61.6,
+      "word": "uma",
+      "prob": 0.382
+    },
+    {
+      "start": 61.6,
+      "end": 61.86,
+      "word": "IA",
+      "prob": 0.895
+    },
+    {
+      "start": 61.86,
+      "end": 62.52,
+      "word": "achou",
+      "prob": 0.989
+    },
+    {
+      "start": 62.52,
+      "end": 62.66,
+      "word": "em",
+      "prob": 0.192
+    },
+    {
+      "start": 62.66,
+      "end": 62.66,
+      "word": "uma",
+      "prob": 0.979
+    },
+    {
+      "start": 62.66,
+      "end": 63.16,
+      "word": "partida",
+      "prob": 0.99
+    },
+    {
+      "start": 63.16,
+      "end": 63.28,
+      "word": "de",
+      "prob": 0.991
+    },
+    {
+      "start": 63.28,
+      "end": 63.72,
+      "word": "futebol",
+      "prob": 0.993
+    },
+    {
+      "start": 67.48,
+      "end": 68.0,
+      "word": "o",
+      "prob": 0.711
+    },
+    {
+      "start": 68.0,
+      "end": 68.16,
+      "word": "que",
+      "prob": 0.992
+    },
+    {
+      "start": 68.16,
+      "end": 68.36,
+      "word": "ninguém",
+      "prob": 0.976
+    },
+    {
+      "start": 68.36,
+      "end": 68.82,
+      "word": "achou",
+      "prob": 0.994
+    },
+    {
+      "start": 68.82,
+      "end": 68.92,
+      "word": "em",
+      "prob": 0.967
+    },
+    {
+      "start": 68.92,
+      "end": 69.38,
+      "word": "87",
+      "prob": 0.986
+    },
+    {
+      "start": 69.38,
+      "end": 70.1,
+      "word": "anos",
+      "prob": 0.996
+    },
+    {
+      "start": 70.44,
+      "end": 70.7,
+      "word": "você",
+      "prob": 0.816
+    },
+    {
+      "start": 70.7,
+      "end": 70.92,
+      "word": "acha",
+      "prob": 0.982
+    },
+    {
+      "start": 70.92,
+      "end": 71.2,
+      "word": "mesmo",
+      "prob": 0.969
+    },
+    {
+      "start": 71.2,
+      "end": 71.42,
+      "word": "que",
+      "prob": 0.993
+    },
+    {
+      "start": 71.42,
+      "end": 71.56,
+      "word": "ele",
+      "prob": 0.967
+    },
+    {
+      "start": 71.56,
+      "end": 71.72,
+      "word": "não",
+      "prob": 0.994
+    },
+    {
+      "start": 71.72,
+      "end": 71.86,
+      "word": "dá",
+      "prob": 0.804
+    },
+    {
+      "start": 71.86,
+      "end": 72.24,
+      "word": "conta",
+      "prob": 0.997
+    },
+    {
+      "start": 72.24,
+      "end": 72.46,
+      "word": "do",
+      "prob": 0.979
+    },
+    {
+      "start": 72.46,
+      "end": 72.62,
+      "word": "seu",
+      "prob": 0.976
+    },
+    {
+      "start": 72.62,
+      "end": 72.9,
+      "word": "sistema",
+      "prob": 0.993
+    },
+    {
+      "start": 72.9,
+      "end": 73.4,
+      "word": "legado?",
+      "prob": 0.931
+    },
+    {
+      "start": 73.52,
+      "end": 74.0,
+      "word": "a",
+      "prob": 0.781
+    },
+    {
+      "start": 74.0,
+      "end": 74.48,
+      "word": "ferramenta",
+      "prob": 0.999
+    },
+    {
+      "start": 74.48,
+      "end": 74.7,
+      "word": "já",
+      "prob": 0.964
+    },
+    {
+      "start": 74.7,
+      "end": 74.98,
+      "word": "tá",
+      "prob": 0.38
+    },
+    {
+      "start": 74.98,
+      "end": 75.48,
+      "word": "pronta",
+      "prob": 0.998
+    },
+    {
+      "start": 75.48,
+      "end": 75.88,
+      "word": "o",
+      "prob": 0.872
+    },
+    {
+      "start": 75.88,
+      "end": 75.96,
+      "word": "que",
+      "prob": 0.999
+    },
+    {
+      "start": 75.96,
+      "end": 76.32,
+      "word": "falta",
+      "prob": 0.997
+    },
+    {
+      "start": 76.32,
+      "end": 76.48,
+      "word": "é",
+      "prob": 0.952
+    },
+    {
+      "start": 76.48,
+      "end": 76.64,
+      "word": "você",
+      "prob": 0.995
+    },
+    {
+      "start": 76.64,
+      "end": 77.1,
+      "word": "aprender",
+      "prob": 0.996
+    },
+    {
+      "start": 77.1,
+      "end": 77.24,
+      "word": "a",
+      "prob": 0.945
+    },
+    {
+      "start": 77.24,
+      "end": 77.7,
+      "word": "orquestrar",
+      "prob": 0.998
+    },
+    {
+      "start": 78.22,
+      "end": 78.74,
+      "word": "siga",
+      "prob": 0.981
+    },
+    {
+      "start": 78.74,
+      "end": 78.78,
+      "word": "o",
+      "prob": 0.992
+    },
+    {
+      "start": 78.78,
+      "end": 78.9,
+      "word": "brain",
+      "prob": 0.081
+    },
+    {
+      "start": 78.9,
+      "end": 79.14,
+      "word": "code",
+      "prob": 0.544
+    },
+    {
+      "start": 79.14,
+      "end": 79.44,
+      "word": "e",
+      "prob": 0.994
+    },
+    {
+      "start": 79.44,
+      "end": 79.92,
+      "word": "aprenda",
+      "prob": 0.995
+    },
+    {
+      "start": 79.92,
+      "end": 80.82,
+      "word": "engenharia",
+      "prob": 0.858
+    },
+    {
+      "start": 80.82,
+      "end": 81.02,
+      "word": "de",
+      "prob": 0.984
+    },
+    {
+      "start": 81.02,
+      "end": 81.16,
+      "word": "IA",
+      "prob": 0.992
+    },
+    {
+      "start": 81.16,
+      "end": 81.32,
+      "word": "de",
+      "prob": 0.996
+    },
+    {
+      "start": 81.32,
+      "end": 81.56,
+      "word": "verdade",
+      "prob": 0.999
+    }
+  ]
+}

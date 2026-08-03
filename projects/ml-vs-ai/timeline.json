@@ -1,0 +1,215 @@
+{
+  "version": 1,
+  "type": "compare",
+  "fps": 25,
+  "width": 1080,
+  "height": 1920,
+  "split": 0.5,
+  "duration": 15.0,
+  "source": {
+    "file": "source.mp4",
+    "meta": {
+      "duration": 24.867,
+      "width": 1920,
+      "height": 1080,
+      "fps": 30.0,
+      "has_audio": false
+    },
+    "crop": { "x": 0.5, "y": 0.5, "zoom": 1.0 },
+    "clips": [[0.0, 15.0]],
+    "grade": { "exposure": 0.68, "contrast": 1.04, "saturation": 0.92 },
+    "trim": null
+  },
+  "music": null,
+  "theme": {
+    "bg": "#08080a",
+    "fg": "#ffffff",
+    "muted": "#8a8f98",
+    "accent": "#e11d48",
+    "accent2": "#8b9cff",
+    "font": "Inter",
+    "mono": "JetBrains Mono"
+  },
+  "segments": [
+    {
+      "id": "seg-hook",
+      "start": 0.0,
+      "end": 2.0,
+      "layers": [
+        { "scene": "pulse", "props": { "alpha": 0.28, "dots": 50, "beats": [0.45], "beatAlpha": 0.14 } },
+        { "scene": "burst", "props": { "at": [0.5], "cy": 0.5, "r1": 420 } },
+        {
+          "scene": "hookchip",
+          "props": {
+            "bottom": null,
+            "size": 64,
+            "delay": 0.12,
+            "stagger": 0.18,
+            "lines": [
+              { "w": "ML ENGINEER" },
+              { "w": "≠ AI ENGINEER" },
+              { "w": "você é qual dos dois?", "hot": true }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "seg-skills",
+      "start": 2.0,
+      "end": 5.0,
+      "layers": [
+        { "scene": "pulse", "props": { "alpha": 0.24, "dots": 42, "beats": [0.1] } },
+        {
+          "scene": "versus",
+          "props": {
+            "title": "Skills",
+            "top": "center",
+            "color2": "#009966",
+            "left": "ML Engineer",
+            "right": "AI Engineer",
+            "listL": [
+              { "w": "Python", "t": 0.45 },
+              { "w": "álgebra linear", "t": 0.67 },
+              { "w": "probabilidade e estatística", "t": 0.89 },
+              { "w": "feature engineering", "t": 1.11 },
+              { "w": "treino e avaliação de modelo", "t": 1.33 },
+              { "w": "pipelines de dados", "t": 1.55 }
+            ],
+            "listR": [
+              { "w": "prompt/context engineering", "t": 0.56 },
+              { "w": "construir em cima de LLMs", "t": 0.78 },
+              { "w": "fine-tuning de LLM", "t": 1.0 },
+              { "w": "RAG", "t": 1.22 },
+              { "w": "guardrails", "t": 1.44 },
+              { "w": "embeddings e vetores", "t": 1.66 }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "seg-tools",
+      "start": 5.0,
+      "end": 7.8,
+      "layers": [
+        { "scene": "pulse", "props": { "alpha": 0.24, "dots": 42, "beats": [0.1] } },
+        {
+          "scene": "versus",
+          "props": {
+            "title": "Ferramentas",
+            "top": "center",
+            "color2": "#009966",
+            "left": "ML Engineer",
+            "right": "AI Engineer",
+            "listL": [
+              { "w": "scikit-learn", "t": 0.45 },
+              { "w": "PyTorch", "t": 0.67 },
+              { "w": "XGBoost", "t": 0.89 },
+              { "w": "MLflow", "t": 1.11 },
+              { "w": "Pandas/NumPy", "t": 1.33 },
+              { "w": "AWS SageMaker", "t": 1.55 }
+            ],
+            "listR": [
+              { "w": "qualquer linguagem de programação", "t": 0.56 },
+              { "w": "AI SDKs (OpenAI/Anthropic)", "t": 0.78 },
+              { "w": "HuggingFace", "t": 1.0 },
+              { "w": "Supabase", "t": 1.22 },
+              { "w": "AWS Bedrock", "t": 1.44 }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "seg-workflow",
+      "start": 7.8,
+      "end": 10.6,
+      "layers": [
+        { "scene": "pulse", "props": { "alpha": 0.24, "dots": 42, "beats": [0.1] } },
+        {
+          "scene": "versus",
+          "props": {
+            "title": "Workflow",
+            "top": "center",
+            "color2": "#009966",
+            "left": "ML Engineer",
+            "right": "AI Engineer",
+            "listL": [
+              { "w": "ingestão de dados", "t": 0.45 },
+              { "w": "feature store", "t": 0.67 },
+              { "w": "treino do modelo", "t": 0.89 },
+              { "w": "avaliação", "t": 1.11 },
+              { "w": "deploy", "t": 1.33 },
+              { "w": "retraining + drift", "t": 1.55 }
+            ],
+            "listR": [
+              { "w": "prompt design", "t": 0.56 },
+              { "w": "pipeline de retrieval", "t": 0.78 },
+              { "w": "construção de agentes", "t": 1.0 },
+              { "w": "suite de evals", "t": 1.22 },
+              { "w": "deploy", "t": 1.44 },
+              { "w": "observabilidade", "t": 1.66 }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "seg-workswith",
+      "start": 10.6,
+      "end": 12.6,
+      "layers": [
+        { "scene": "pulse", "props": { "alpha": 0.24, "dots": 42, "beats": [0.1] } },
+        {
+          "scene": "versus",
+          "props": {
+            "title": "Trabalha com",
+            "top": "center",
+            "color2": "#009966",
+            "left": "ML Engineer",
+            "right": "AI Engineer",
+            "listL": [
+              { "w": "dados tabulares", "t": 0.4 },
+              { "w": "pipelines estruturados", "t": 0.62 },
+              { "w": "ML clássico", "t": 0.84 },
+              { "w": "às vezes deep learning", "t": 1.06 }
+            ],
+            "listR": [
+              { "w": "texto, imagem e vídeo", "t": 0.51 },
+              { "w": "APIs de LLM", "t": 0.73 },
+              { "w": "vector databases", "t": 0.95 }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "seg-shared",
+      "start": 12.6,
+      "end": 15.0,
+      "layers": [
+        { "scene": "pulse", "props": { "alpha": 0.26, "dots": 46, "beats": [0.1] } },
+        {
+          "scene": "versus",
+          "props": {
+            "title": "Base comum — os dois",
+            "titleSize": 64,
+            "color2": "#009966",
+            "top": "center",
+            "center": [
+              { "w": "Python", "t": 0.35 },
+              { "w": "Git", "t": 0.55 },
+              { "w": "FastAPI", "t": 0.75 },
+              { "w": "SQL", "t": 0.95 },
+              { "w": "Linux / terminal", "t": 1.15 },
+              { "w": "cloud (AWS/GCP/OCI)", "t": 1.35 },
+              { "w": "Docker", "t": 1.55 },
+              { "w": "REST APIs", "t": 1.75 }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

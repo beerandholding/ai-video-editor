@@ -1,0 +1,12 @@
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart==0.0.20
+watchfiles==1.0.3
+playwright==1.49.1
+faster-whisper==1.1.1
+requests>=2.32
+google-api-python-client>=2.150
+google-auth-oauthlib>=1.2
+nvidia-cublas-cu12
+nvidia-cudnn-cu12
+anthropic>=0.116

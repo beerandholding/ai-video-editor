@@ -1,0 +1,1454 @@
+{
+ "version": 1,
+ "fps": 25,
+ "width": 1080,
+ "height": 1920,
+ "split": 0.5,
+ "duration": 70.7999,
+ "source": {
+  "file": "source.mp4",
+  "meta": {
+   "duration": 82.93,
+   "width": 1080,
+   "height": 1920,
+   "fps": 30.0,
+   "has_audio": true
+  },
+  "crop": {
+   "x": 0.5,
+   "y": 0.5,
+   "zoom": 1.0
+  },
+  "clips": [
+   [
+    0.4,
+    3.6333
+   ],
+   [
+    3.9667,
+    10.2
+   ],
+   [
+    10.5333,
+    13.3333
+   ],
+   [
+    13.5,
+    16.6333
+   ],
+   [
+    17.0667,
+    24.9333
+   ],
+   [
+    25.0667,
+    25.9333
+   ],
+   [
+    26.2,
+    28.3
+   ],
+   [
+    28.8,
+    31.5
+   ],
+   [
+    31.8333,
+    36.0667
+   ],
+   [
+    36.4667,
+    42.4667
+   ],
+   [
+    42.7333,
+    43.7333
+   ],
+   [
+    44.4333,
+    49.9333
+   ],
+   [
+    50.1,
+    55.6
+   ],
+   [
+    56.0667,
+    60.0667
+   ],
+   [
+    60.4,
+    60.9333
+   ],
+   [
+    65.6667,
+    70.3667
+   ],
+   [
+    70.6333,
+    73.5
+   ],
+   [
+    73.9667,
+    75.7
+   ],
+   [
+    75.8333,
+    77.9667
+   ],
+   [
+    78.2333,
+    81.9
+   ]
+  ],
+  "grade": null,
+  "trim": null
+ },
+ "theme": {
+  "bg": "#08080a",
+  "fg": "#ffffff",
+  "muted": "#8a8f98",
+  "accent": "#e11d48",
+  "accent2": "#8b9cff",
+  "font": "Inter",
+  "mono": "JetBrains Mono"
+ },
+ "segments": [
+  {
+   "id": "s01-copa",
+   "start": 0,
+   "end": 3.3,
+   "layers": [
+    {
+     "scene": "surface3d",
+     "props": {
+      "fn": "sin(x*1.1) * cos(y*0.9)",
+      "amp": 1.05,
+      "grid": 30,
+      "stars": 90,
+      "yaw": -0.6,
+      "yawSpeed": 0.16,
+      "cy": 0.44,
+      "scale": 88,
+      "reveal": 0.8
+     }
+    },
+    {
+     "scene": "popwords",
+     "props": {
+      "size": 56,
+      "hotSize": 74,
+      "align": "top",
+      "words": [
+       {
+        "t": 0.05,
+        "w": "ENQUANTO"
+       },
+       {
+        "t": 0.44,
+        "w": "O MUNDO INTEIRO",
+        "br": true
+       },
+       {
+        "t": 1.12,
+        "w": "ASSISTIA"
+       },
+       {
+        "t": 1.78,
+        "w": "A FINAL",
+        "br": true
+       },
+       {
+        "t": 2.34,
+        "w": "DA COPA DO MUNDO",
+        "hot": true
+       }
+      ],
+      "gap": 30,
+      "liveScale": 1.07
+     }
+    },
+    {
+     "scene": "burst",
+     "props": {
+      "at": [
+       2.34
+      ],
+      "cy": 0.34
+     }
+    },
+    {
+     "scene": "hookchip",
+     "props": {
+      "lines": [
+       {
+        "w": "SE VOCE E DEV,"
+       },
+       {
+        "w": "ISSO VAI TE INCOMODAR",
+        "hot": true
+       }
+      ],
+      "size": 56,
+      "bottom": 56,
+      "delay": 0.12,
+      "stagger": 0.16,
+      "hold": 2.55
+     }
+    }
+   ]
+  },
+  {
+   "id": "s02-derrubou-1939",
+   "start": 3.3,
+   "end": 9.59,
+   "layers": [
+    {
+     "scene": "pulse",
+     "props": {
+      "alpha": 0.42,
+      "dots": 80,
+      "speed": 40,
+      "beats": [
+       0.97,
+       1.41,
+       2.91,
+       4.51,
+       5.6
+      ]
+     }
+    },
+    {
+     "scene": "popwords",
+     "props": {
+      "size": 54,
+      "clearAt": 3.15,
+      "clearDur": 0.35,
+      "words": [
+       {
+        "t": 0.03,
+        "w": "UM MATEMATICO",
+        "br": true
+       },
+       {
+        "t": 0.97,
+        "w": "COM O FABLE 5",
+        "hot": true
+       },
+       {
+        "t": 1.41,
+        "w": "DERRUBOU",
+        "hot": true,
+        "br": true
+       },
+       {
+        "t": 2.11,
+        "w": "UMA CONJECTURA"
+       },
+       {
+        "t": 2.91,
+        "w": "MATEMATICA"
+       }
+      ],
+      "gap": 30,
+      "liveScale": 1.07
+     }
+    },
+    {
+     "scene": "stat",
+     "props": {
+      "from": 2026,
+      "value": 1939,
+      "decimals": 0,
+      "delay": 3.2,
+      "dur": 1.3,
+      "size": 200,
+      "label": "A CONJECTURA JACOBIANA",
+      "caption": "87 ANOS EM ABERTO"
+     }
+    },
+    {
+     "scene": "burst",
+     "props": {
+      "at": [
+       1.41,
+       4.51
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "s03-massa-de-pao",
+   "start": 9.59,
+   "end": 15.27,
+   "layers": [
+    {
+     "scene": "pulse",
+     "props": {
+      "alpha": 0.3,
+      "dots": 60,
+      "speed": 30,
+      "beats": [
+       2.28,
+       4.12,
+       4.8,
+       5.2
+      ]
+     }
+    },
+    {
+     "scene": "warp",
+     "props": {
+      "bg": "none",
+      "mode": "stretch",
+      "scale": 142,
+      "cx": 0.5,
+      "cy": 0.5,
+      "drawDelay": 1,
+      "delay": 2.28,
+      "dur": 2.92,
+      "amount": 1
+     }
+    },
+    {
+     "scene": "popwords",
+     "props": {
+      "size": 44,
+      "top": 70,
+      "clearAt": 4.05,
+      "clearDur": 0.35,
+      "words": [
+       {
+        "t": 0.02,
+        "w": "IMAGINA"
+       },
+       {
+        "t": 0.8,
+        "w": "UMA EQUACAO",
+        "br": true
+       },
+       {
+        "t": 1.2,
+        "w": "PEGA O ESPACO"
+       },
+       {
+        "t": 1.84,
+        "w": "INTEIRO"
+       },
+       {
+        "t": 2.28,
+        "w": "E AMASSA",
+        "hot": true,
+        "br": true
+       },
+       {
+        "t": 3.44,
+        "w": "TIPO MASSA DE PAO"
+       }
+      ],
+      "gap": 30,
+      "liveScale": 1.07
+     }
+    },
+    {
+     "scene": "popwords",
+     "props": {
+      "size": 52,
+      "top": 848,
+      "words": [
+       {
+        "t": 4.12,
+        "w": "ESTICA",
+        "hot": true
+       },
+       {
+        "t": 4.8,
+        "w": "TORCE",
+        "hot": true
+       },
+       {
+        "t": 5.2,
+        "w": "ALONGA",
+        "hot": true
+       }
+      ],
+      "gap": 30,
+      "liveScale": 1.07
+     }
+    },
+    {
+     "scene": "burst",
+     "props": {
+      "at": [
+       2.28,
+       4.12,
+       4.8,
+       5.2
+      ],
+      "cy": 0.5
+     }
+    }
+   ]
+  },
+  {
+   "id": "s04-microscopio",
+   "start": 15.27,
+   "end": 18.35,
+   "layers": [
+    {
+     "scene": "grid2d",
+     "props": {
+      "delay": 0,
+      "drawDur": 0.6,
+      "marker": {
+       "x": 0.34,
+       "y": 0.4,
+       "r": 34,
+       "color": "#b91c1c"
+      },
+      "lens": true,
+      "moveTo": {
+       "x": 0.64,
+       "y": 0.6
+      },
+      "moveDelay": 1.7,
+      "moveDur": 1.3,
+      "annot": "ponto por ponto",
+      "annotColor": "#111"
+     }
+    },
+    {
+     "scene": "popwords",
+     "props": {
+      "size": 44,
+      "top": 64,
+      "color": "#16161c",
+      "hot": "#b91c1c",
+      "words": [
+       {
+        "t": 0.05,
+        "w": "VOCE PEGA"
+       },
+       {
+        "t": 0.72,
+        "w": "UM MICROSCOPIO",
+        "hot": true,
+        "br": true
+       },
+       {
+        "t": 1.7,
+        "w": "E OLHA"
+       },
+       {
+        "t": 2.02,
+        "w": "PONTO",
+        "hot": true
+       },
+       {
+        "t": 2.46,
+        "w": "POR"
+       },
+       {
+        "t": 2.8,
+        "w": "PONTO",
+        "hot": true
+       }
+      ],
+      "gap": 30,
+      "liveScale": 1.07
+     }
+    },
+    {
+     "scene": "burst",
+     "props": {
+      "at": [
+       2.02,
+       2.8
+      ],
+      "color": "#b91c1c",
+      "cx": 0.64,
+      "cy": 0.6,
+      "r0": 30,
+      "r1": 180,
+      "lw": 3,
+      "alpha": 0.5
+     }
+    }
+   ]
+  },
+  {
+   "id": "s05-checklist",
+   "start": 18.35,
+   "end": 23.84,
+   "layers": [
+    {
+     "scene": "pulse",
+     "props": {
+      "alpha": 0.38,
+      "dots": 75,
+      "speed": 36,
+      "beats": [
+       1.16,
+       2.48,
+       3.33,
+       4.18,
+       5.03
+      ]
+     }
+    },
+    {
+     "scene": "popwords",
+     "props": {
+      "size": 44,
+      "top": 70,
+      "words": [
+       {
+        "t": 0.02,
+        "w": "EM TODO LUGAR"
+       },
+       {
+        "t": 1.16,
+        "w": "QUE VOCE OLHA"
+       },
+       {
+        "t": 1.44,
+        "w": "A MASSA"
+       }
+      ],
+      "gap": 30,
+      "liveScale": 1.07
+     }
+    },
+    {
+     "scene": "bullets",
+     "props": {
+      "items": [
+       "SO ESTICOU",
+       "NAO DOBROU",
+       "NADA ESMAGADO",
+       "NADA COLOU"
+      ],
+      "marker": "—",
+      "delay": 2.48,
+      "stagger": 0.85,
+      "dur": 0.4,
+      "dim": true,
+      "size": 44
+     }
+    }
+   ]
+  },
+  {
+   "id": "s06-reversivel",
+   "start": 23.84,
+   "end": 26.17,
+   "layers": [
+    {
+     "scene": "pulse",
+     "props": {
+      "alpha": 0.3,
+      "dots": 60,
+      "speed": 30,
+      "beats": [
+       0.43,
+       1.67
+      ]
+     }
+    },
+    {
+     "scene": "warp",
+     "props": {
+      "bg": "none",
+      "mode": "stretch",
+      "scale": 142,
+      "cy": 0.5,
+      "drawDelay": 0,
+      "delay": 0.15,
+      "dur": 1,
+      "reverseDelay": 1.37,
+      "reverseDur": 0.85
+     }
+    },
+    {
+     "scene": "popwords",
+     "props": {
+      "size": 46,
+      "top": 70,
+      "words": [
+       {
+        "t": 0.05,
+        "w": "ISSO"
+       },
+       {
+        "t": 0.43,
+        "w": "LOCALMENTE",
+        "br": true
+       },
+       {
+        "t": 1.37,
+        "w": "SEMPRE"
+       },
+       {
+        "t": 1.67,
+        "w": "REVERSIVEL",
+        "hot": true
+       }
+      ],
+      "gap": 30,
+      "liveScale": 1.07
+     }
+    },
+    {
+     "scene": "burst",
+     "props": {
+      "at": [
+       1.67
+      ],
+      "cy": 0.5
+     }
+    }
+   ]
+  },
+  {
+   "id": "s07-pergunta-1939",
+   "start": 26.17,
+   "end": 32.98,
+   "layers": [
+    {
+     "scene": "pulse",
+     "props": {
+      "alpha": 0.4,
+      "dots": 80,
+      "speed": 38,
+      "beats": [
+       0.76,
+       2.26,
+       4.87,
+       6.25
+      ]
+     }
+    },
+    {
+     "scene": "kicker",
+     "props": {
+      "text": "87 anos sem resposta",
+      "rule": true,
+      "delay": 1.5,
+      "top": 64
+     }
+    },
+    {
+     "scene": "popwords",
+     "props": {
+      "size": 60,
+      "clearAt": 2,
+      "clearDur": 0.3,
+      "words": [
+       {
+        "t": 0.06,
+        "w": "A PERGUNTA"
+       },
+       {
+        "t": 0.76,
+        "w": "DE 1939",
+        "hot": true
+       }
+      ],
+      "gap": 30,
+      "liveScale": 1.07
+     }
+    },
+    {
+     "scene": "popwords",
+     "props": {
+      "size": 52,
+      "hotSize": 68,
+      "words": [
+       {
+        "t": 2.26,
+        "w": "SE NADA"
+       },
+       {
+        "t": 3.03,
+        "w": "DOBROU"
+       },
+       {
+        "t": 3.49,
+        "w": "EM PONTO NENHUM",
+        "br": true
+       },
+       {
+        "t": 4.09,
+        "w": "DA SEMPRE"
+       },
+       {
+        "t": 4.87,
+        "w": "PRA DESFAZER",
+        "hot": true,
+        "br": true
+       },
+       {
+        "t": 5.61,
+        "w": "E VOLTAR"
+       },
+       {
+        "t": 6.25,
+        "w": "AO ORIGINAL?",
+        "hot": true
+       }
+      ],
+      "gap": 30,
+      "liveScale": 1.07
+     }
+    },
+    {
+     "scene": "burst",
+     "props": {
+      "at": [
+       0.76,
+       4.87,
+       6.25
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "s08-aposta-87",
+   "start": 32.98,
+   "end": 35.98,
+   "layers": [
+    {
+     "scene": "pulse",
+     "props": {
+      "alpha": 0.4,
+      "dots": 80,
+      "speed": 40,
+      "beats": [
+       1.18,
+       1.84,
+       2.4
+      ]
+     }
+    },
+    {
+     "scene": "popwords",
+     "props": {
+      "size": 52,
+      "top": 64,
+      "words": [
+       {
+        "t": 0.05,
+        "w": "TODO MUNDO"
+       },
+       {
+        "t": 0.42,
+        "w": "APOSTAVA"
+       },
+       {
+        "t": 1.18,
+        "w": "QUE SIM",
+        "hot": true
+       }
+      ],
+      "gap": 30,
+      "liveScale": 1.07
+     }
+    },
+    {
+     "scene": "stat",
+     "props": {
+      "from": 0,
+      "value": 87,
+      "delay": 0.55,
+      "dur": 1.3,
+      "size": 210,
+      "label": "ANOS"
+     }
+    },
+    {
+     "scene": "burst",
+     "props": {
+      "at": [
+       1.84
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "s09-ninguem-achou",
+   "start": 35.98,
+   "end": 38.82,
+   "layers": [
+    {
+     "scene": "pulse",
+     "props": {
+      "alpha": 0.42,
+      "dots": 85,
+      "speed": 44,
+      "beats": [
+       0.36,
+       0.96,
+       2.38
+      ]
+     }
+    },
+    {
+     "scene": "popwords",
+     "props": {
+      "size": 56,
+      "words": [
+       {
+        "t": 0.02,
+        "w": "NINGUEM"
+       },
+       {
+        "t": 0.36,
+        "w": "PROVOU",
+        "br": true
+       },
+       {
+        "t": 0.96,
+        "w": "NINGUEM ACHOU",
+        "hot": true,
+        "br": true
+       },
+       {
+        "t": 1.58,
+        "w": "UM CASO"
+       },
+       {
+        "t": 2.38,
+        "w": "ONDE NAO DAVA",
+        "hot": true
+       }
+      ],
+      "gap": 30,
+      "liveScale": 1.07
+     }
+    },
+    {
+     "scene": "burst",
+     "props": {
+      "at": [
+       0.96,
+       2.38
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "s10-fable-achou-fold",
+   "start": 38.82,
+   "end": 42.11,
+   "layers": [
+    {
+     "scene": "pulse",
+     "props": {
+      "alpha": 0.28,
+      "dots": 55,
+      "speed": 30,
+      "beats": [
+       0.81,
+       2.5
+      ]
+     }
+    },
+    {
+     "scene": "warp",
+     "props": {
+      "bg": "none",
+      "mode": "fold",
+      "scale": 150,
+      "cy": 0.5,
+      "drawDelay": 0,
+      "delay": 0.5,
+      "dur": 2,
+      "flash": true,
+      "dotDelay": 0.3
+     }
+    },
+    {
+     "scene": "popwords",
+     "props": {
+      "size": 46,
+      "top": 64,
+      "words": [
+       {
+        "t": 0.35,
+        "w": "O FABLE 5"
+       },
+       {
+        "t": 0.81,
+        "w": "ACHOU.",
+        "hot": true,
+        "br": true
+       },
+       {
+        "t": 1.27,
+        "w": "E NAO FOI"
+       },
+       {
+        "t": 1.61,
+        "w": "PENSANDO",
+        "br": true
+       },
+       {
+        "t": 2.73,
+        "w": "COMO MATEMATICO"
+       }
+      ],
+      "gap": 30,
+      "liveScale": 1.07
+     }
+    },
+    {
+     "scene": "burst",
+     "props": {
+      "at": [
+       0.81
+      ],
+      "cy": 0.5
+     }
+    }
+   ]
+  },
+  {
+   "id": "s11-uma-manha",
+   "start": 42.11,
+   "end": 46.45,
+   "layers": [
+    {
+     "scene": "clock",
+     "props": {
+      "hour": 11,
+      "turns": 2,
+      "sweepDelay": 0.2,
+      "sweepDur": 0.85,
+      "cy": 0.42,
+      "r": 0.26,
+      "labels": [
+       "UMA MANHA",
+       "DE CONVERSA",
+       "SO ISSO"
+      ],
+      "labelSize": 44,
+      "labelDelay": 0.27,
+      "labelGap": 0.5,
+      "cx": 0.3
+     }
+    },
+    {
+     "scene": "popwords",
+     "props": {
+      "size": 40,
+      "top": 726,
+      "words": [
+       {
+        "t": 0.26,
+        "w": "UM PESQUISADOR"
+       },
+       {
+        "t": 0.72,
+        "w": "DE HARVARD",
+        "br": true
+       },
+       {
+        "t": 1.68,
+        "w": "CONVERSANDO"
+       },
+       {
+        "t": 2.6,
+        "w": "COM O MODELO",
+        "hot": true,
+        "br": true
+       },
+       {
+        "t": 3.24,
+        "w": "E SAIU"
+       },
+       {
+        "t": 3.88,
+        "w": "DA CONVERSA..."
+       }
+      ],
+      "gap": 30,
+      "liveScale": 1.07
+     }
+    },
+    {
+     "scene": "burst",
+     "props": {
+      "at": [
+       2.6
+      ],
+      "cy": 0.42
+     }
+    }
+   ]
+  },
+  {
+   "id": "s12-3-polinomios",
+   "start": 46.45,
+   "end": 51.03,
+   "layers": [
+    {
+     "scene": "pulse",
+     "props": {
+      "alpha": 0.36,
+      "dots": 70,
+      "speed": 38,
+      "beats": [
+       1.46,
+       2.76,
+       3.24,
+       4.1
+      ]
+     }
+    },
+    {
+     "scene": "code",
+     "props": {
+      "head": "3 POLINOMIOS",
+      "code": "f1 = x + (xz + y^2)^2\nf2 = y - z(xz + y^2)\nf3 = z",
+      "size": 42,
+      "cps": 26,
+      "delay": 0.2,
+      "highlight": [
+       1,
+       2,
+       3
+      ]
+     }
+    },
+    {
+     "scene": "popwords",
+     "props": {
+      "size": 44,
+      "top": 800,
+      "words": [
+       {
+        "t": 1.46,
+        "w": "87 ANOS",
+        "hot": true
+       },
+       {
+        "t": 2.76,
+        "w": "DE MENTES"
+       },
+       {
+        "t": 3.24,
+        "w": "BRILHANTES"
+       },
+       {
+        "t": 4.1,
+        "w": "NAO ACHARAM",
+        "hot": true
+       }
+      ],
+      "gap": 30,
+      "liveScale": 1.07
+     }
+    },
+    {
+     "scene": "burst",
+     "props": {
+      "at": [
+       4.1
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "s13-cabe-num-tweet",
+   "start": 51.03,
+   "end": 55.2,
+   "layers": [
+    {
+     "scene": "pulse",
+     "props": {
+      "alpha": 0.4,
+      "dots": 85,
+      "speed": 44,
+      "beats": [
+       1.05,
+       2.29,
+       3.33
+      ]
+     }
+    },
+    {
+     "scene": "popwords",
+     "props": {
+      "size": 54,
+      "hotSize": 70,
+      "words": [
+       {
+        "t": 0.02,
+        "w": "TAO CURTO"
+       },
+       {
+        "t": 0.67,
+        "w": "QUE CABE"
+       },
+       {
+        "t": 1.05,
+        "w": "NUM TWEET",
+        "hot": true,
+        "br": true
+       },
+       {
+        "t": 1.77,
+        "w": "A COMUNIDADE"
+       },
+       {
+        "t": 2.29,
+        "w": "VERIFICOU",
+        "hot": true
+       },
+       {
+        "t": 3.33,
+        "w": "EM HORAS",
+        "hot": true
+       }
+      ],
+      "gap": 30,
+      "liveScale": 1.07
+     }
+    },
+    {
+     "scene": "burst",
+     "props": {
+      "at": [
+       1.05,
+       2.29,
+       3.33
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "s14-futebol-90min",
+   "start": 55.2,
+   "end": 57.51,
+   "layers": [
+    {
+     "scene": "clock",
+     "props": {
+      "r": 0.24,
+      "cx": 0.5,
+      "cy": 0.52,
+      "hour": 6,
+      "turns": 3,
+      "sweepDelay": 0.35,
+      "sweepDur": 1.15,
+      "ticks": true,
+      "labels": [
+       "90 MIN"
+      ],
+      "labelSize": 44,
+      "labelDelay": 0.3
+     }
+    },
+    {
+     "scene": "popwords",
+     "props": {
+      "size": 46,
+      "top": 64,
+      "words": [
+       {
+        "t": 0.03,
+        "w": "AGORA ME DIZ",
+        "br": true
+       },
+       {
+        "t": 0.72,
+        "w": "UMA IA",
+        "hot": true
+       },
+       {
+        "t": 1.12,
+        "w": "ACHOU"
+       },
+       {
+        "t": 1.57,
+        "w": "NUM JOGO DE FUTEBOL",
+        "hot": true
+       }
+      ],
+      "gap": 30,
+      "liveScale": 1.07
+     }
+    },
+    {
+     "scene": "burst",
+     "props": {
+      "at": [
+       0.72
+      ],
+      "cy": 0.46
+     }
+    }
+   ]
+  },
+  {
+   "id": "s15-87-de-novo",
+   "start": 57.51,
+   "end": 60.4,
+   "layers": [
+    {
+     "scene": "pulse",
+     "props": {
+      "alpha": 0.4,
+      "dots": 85,
+      "speed": 46,
+      "beats": [
+       0.88,
+       1.44,
+       2.2
+      ]
+     }
+    },
+    {
+     "scene": "popwords",
+     "props": {
+      "size": 44,
+      "top": 70,
+      "words": [
+       {
+        "t": 0.52,
+        "w": "O QUE NINGUEM"
+       },
+       {
+        "t": 0.88,
+        "w": "ACHOU",
+        "hot": true
+       }
+      ],
+      "gap": 30,
+      "liveScale": 1.07
+     }
+    },
+    {
+     "scene": "stat",
+     "props": {
+      "from": 0,
+      "value": 87,
+      "delay": 0.14,
+      "dur": 1.3,
+      "size": 210,
+      "label": "ANOS PROCURANDO"
+     }
+    },
+    {
+     "scene": "burst",
+     "props": {
+      "at": [
+       1.44
+      ],
+      "r0": 160,
+      "r1": 430,
+      "alpha": 0.4
+     }
+    }
+   ]
+  },
+  {
+   "id": "s16-sistema-legado",
+   "start": 60.4,
+   "end": 63.3,
+   "layers": [
+    {
+     "scene": "pulse",
+     "props": {
+      "alpha": 0.42,
+      "dots": 95,
+      "speed": 52,
+      "beats": [
+       0.07,
+       1.09,
+       2.27
+      ]
+     }
+    },
+    {
+     "scene": "popwords",
+     "props": {
+      "size": 58,
+      "hotSize": 112,
+      "words": [
+       {
+        "t": 0.07,
+        "w": "ACHA MESMO",
+        "br": true
+       },
+       {
+        "t": 0.57,
+        "w": "QUE ELE NAO"
+       },
+       {
+        "t": 1.09,
+        "w": "DA CONTA",
+        "br": true
+       },
+       {
+        "t": 1.61,
+        "w": "DO SEU"
+       },
+       {
+        "t": 1.99,
+        "w": "SISTEMA",
+        "br": true
+       },
+       {
+        "t": 2.27,
+        "w": "LEGADO?",
+        "hot": true
+       }
+      ],
+      "gap": 30,
+      "liveScale": 1.07
+     }
+    },
+    {
+     "scene": "burst",
+     "props": {
+      "at": [
+       2.27
+      ],
+      "spokes": 20,
+      "r1": 380
+     }
+    }
+   ]
+  },
+  {
+   "id": "s17-orquestrar",
+   "start": 63.3,
+   "end": 67.55,
+   "layers": [
+    {
+     "scene": "pulse",
+     "props": {
+      "alpha": 0.4,
+      "dots": 85,
+      "speed": 46,
+      "beats": [
+       0.98,
+       3.11
+      ]
+     }
+    },
+    {
+     "scene": "flow",
+     "props": {
+      "dir": "down",
+      "boxW": 480,
+      "size": 38,
+      "steps": [
+       {
+        "t": 0.03,
+        "label": "A FERRAMENTA"
+       },
+       {
+        "t": 0.98,
+        "label": "JA TA PRONTA"
+       },
+       {
+        "t": 1.83,
+        "label": "O QUE FALTA: VOCE"
+       },
+       {
+        "t": 3.11,
+        "label": "ORQUESTRAR",
+        "hot": true
+       }
+      ]
+     }
+    },
+    {
+     "scene": "burst",
+     "props": {
+      "at": [
+       3.11
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "s18-cta",
+   "start": 67.55,
+   "end": 70.8,
+   "layers": [
+    {
+     "scene": "pulse",
+     "props": {
+      "alpha": 0.42,
+      "dots": 95,
+      "speed": 54,
+      "beats": [
+       0.25,
+       2.67
+      ]
+     }
+    },
+    {
+     "scene": "popwords",
+     "props": {
+      "size": 54,
+      "hotSize": 84,
+      "words": [
+       {
+        "t": 0.05,
+        "w": "SIGA",
+        "br": true
+       },
+       {
+        "t": 0.25,
+        "w": "BEER AND CODE",
+        "hot": true,
+        "br": true
+       },
+       {
+        "t": 0.79,
+        "w": "E APRENDA"
+       },
+       {
+        "t": 1.27,
+        "w": "ENGENHARIA",
+        "br": true
+       },
+       {
+        "t": 2.37,
+        "w": "DE IA"
+       },
+       {
+        "t": 2.67,
+        "w": "DE VERDADE",
+        "hot": true
+       }
+      ],
+      "gap": 30,
+      "liveScale": 1.07
+     }
+    },
+    {
+     "scene": "burst",
+     "props": {
+      "at": [
+       0.25,
+       2.67
+      ],
+      "spokes": 20
+     }
+    }
+   ]
+  }
+ ]
+}
